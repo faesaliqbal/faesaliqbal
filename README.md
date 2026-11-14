@@ -2,7 +2,7 @@
 
 ### Principal SQA Engineer | Playwright & TypeScript Test Automation | JMeter Performance Testing | AI-Assisted Testing
 
-Senior QA Engineer with experience across manual testing, test automation, API testing, and performance engineering. I build maintainable automation frameworks, investigate application performance, and apply structured QA practices to improve software quality throughout the testing lifecycle.
+Principal QA Engineer with experience across manual testing, test automation, API testing, and performance engineering. I build maintainable automation frameworks, investigate application performance, and apply structured QA practices to improve software quality throughout the testing lifecycle.
 
 ## Core Expertise
 
