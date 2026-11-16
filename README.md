@@ -26,4 +26,4 @@ My professional work includes client and enterprise systems that cannot be publi
 Open to remote full-time and contract roles.
 
 - [LinkedIn](https://www.linkedin.com/in/faisal-iqbal-35678636)
-- [Upwork](https://www.upwork.com/freelancers/faisali62?mp_source=share)
+- [Upwork](https://www.upwork.com/freelancers/faisali62)
